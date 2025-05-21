@@ -15,7 +15,7 @@
 
 ## 📂 Featured Projects
 
-* 🔍 [Movie Recommender System](https://github.com/morgankhweku/movie-recommender)
+* 🔍 [Song Recommender System](https://github.com/morgankhweku/Collins-Brohomah/blob/main/recommendation%20system.py)
 * 📊 [Credit Card Fraud Detection](https://github.com/morgankhweku/fraud-detection)
 * 🌐 [Geospatial Mapping Tool](https://github.com/morgankhweku/gis-mapper)
 
